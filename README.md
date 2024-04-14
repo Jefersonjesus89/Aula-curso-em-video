@@ -1,5 +1,5 @@
-# Aula curso em video
+# Aula curso em video / olá mundo
  Repositorio do curso Git e Github
  Criado durante uma aula
- Mudei o readme
+ 
  
